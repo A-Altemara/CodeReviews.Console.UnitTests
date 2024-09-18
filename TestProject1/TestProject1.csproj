@@ -20,4 +20,8 @@
         <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Console.CodingTracker.A-Altemara\CodingTracker.A-Altemara\CodingTracker\CodingTracker.csproj" />
+    </ItemGroup>
+
 </Project>
